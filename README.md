@@ -1,1 +1,1 @@
-# Plant_Disease_Detection_App
+# Predictive Model using LSTM Algo
